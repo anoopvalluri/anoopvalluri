@@ -4,13 +4,16 @@
 Email Me 👉 ✉️ **anoop.valluri@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 🌱 **I’m currently learning:** Openshift
+- 👯 **I’m looking to collaborate on:** Cloud native Projects
+- 🤔 **I’m looking for help with:** DevOps
+- 💬 **Ask me about:** Collaboration, Tech Support, DevOps
+- 📫 **How to reach me:** anoop.valluri@gmail.com
 - 😄 **Pronouns:** Anoop
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anoopvalluri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 
@@ -28,9 +31,6 @@ Email Me 👉 ✉️ **anoop.valluri@gmail.com** For Collaboration/Project or An
 ![](https://github-readme-stats.shion.dev/api?username=anoopvalluri&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=anoopvalluri&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anoopvalluri&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anoopvalluri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
